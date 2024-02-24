@@ -1,0 +1,4 @@
+allure-pytest
+appium-python-client
+pytest
+selene==2.0.0b16
